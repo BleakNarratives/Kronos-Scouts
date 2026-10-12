@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="90" fill="#0A0E17"/>
+  <path d="M64 128 L448 128 M64 256 L448 256 M64 384 L448 384" stroke="#1E293B" stroke-width="8" stroke-dasharray="16 16"/>
+  <g transform="translate(256,230)">
+    <polygon points="0,-110 95,-55 95,55 0,110 -95,55 -95,-55" fill="none" stroke="#00FFCC" stroke-width="12"/>
+    <polygon points="0,-80 69,-40 69,40 0,80 -69,40 -69,-40" fill="#0F172A" stroke="#0077FF" stroke-width="6"/>
+    <circle cx="0" cy="0" r="28" fill="#00FFCC"/>
+  </g>
+  <polyline points="96,370 180,310 240,340 330,220 416,250" fill="none" stroke="#FF0055" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="416" cy="250" r="10" fill="#FF0055"/>
+  <text x="256" y="450" font-family="'Courier New', monospace" font-weight="900" font-size="38" fill="#E2E8F0" text-anchor="middle" letter-spacing="4">AXESCOUT</text>
+  <text x="256" y="480" font-family="'Courier New', monospace" font-size="18" fill="#00FFCC" text-anchor="middle" letter-spacing="2">ROOTBASE FABRIC</text>
+</svg>
+
